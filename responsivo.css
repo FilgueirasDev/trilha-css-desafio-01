@@ -1,0 +1,25 @@
+@media (max-width: 975px) {
+    .banner {
+        margin-bottom: 30px;
+        width: 975px;
+        text-align: center;
+    }
+
+    #course-content {
+        margin-left: 75px;
+    }
+
+    #transform-world {
+        width: 975px;
+        background-position:center;
+    }
+
+    #professional-challenges{
+        margin-left: 75px;
+    }
+
+    footer {
+        width: 975px;
+        
+    }
+}
