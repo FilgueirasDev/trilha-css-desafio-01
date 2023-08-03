@@ -12,6 +12,7 @@
     #transform-world {
         width: 975px;
         background-position:center;
+        background-attachment: scroll;
     }
 
     #professional-challenges{
